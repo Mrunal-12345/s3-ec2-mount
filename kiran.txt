@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 hello i am kiran
 
@@ -5,3 +6,5 @@ hello i am kiran
 i have a laptop
 =======
 >>>>>>> parent of 634449c (mayuri is my best f)
+=======
+>>>>>>> parent of f9dbcbe (hello i am kiran)
